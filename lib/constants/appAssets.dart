@@ -1,0 +1,70 @@
+abstract class AppAssets {
+  static const intro0 = "assets/images/intro0.png";
+  static const intro1 = "assets/images/intro1.png";
+  static const intro2 = "assets/images/intro2.png";
+  static const aliexpress = "assets/images/aliexpress.png";
+  static const cartAdd = "assets/images/cart-add.png";
+  static const geeksHouse = "assets/images/geeks-house.jpeg";
+  // ulysse update
+  static const suivisicon = "assets/images/icons8-commande-expédiée-50.png";
+  static const demandedevis = "assets/images/icons8-ajouter-un-reçu-100.png";
+  static const iconuser = "assets/images/icons8-utilisateur-60.png";
+  static const logo = "assets/images/logo.png";
+  static const logoWithoutNameWhite = "assets/logo2.png";
+  static const orderEmpty = "assets/images/order-empty.png";
+  static const alibaba = "assets/images/alibaba.png";
+  static const amazon = "assets/images/amazon.png";
+  static const shein = "assets/images/shein.png";
+  static const logoFlooz = "assets/images/logoFlooz.png";
+  static const logoTMoney = "assets/images/logoTMoney.png";
+  static const mobileMoney = "assets/images/mobileMoney.png";
+  static const especes = "assets/images/especes.png";
+  static const bankCheck = "assets/images/bankCheck.png";
+  static const bankTransfer = "assets/images/bankTransfer.png";
+  static const detailsLivraison = "assets/images/detailsLivraison.png";
+  //ICON
+  static const homeIcon = "assets/icon/Home.png";
+  static const messageIcon = "assets/icon/Message.png";
+  static const cartIcon = "assets/icon/Buy.png";
+  static const profileIcon = "assets/icon/Profile.png";
+  static const walletIcon = "assets/icon/Wallet.png";
+  static const notifIcon = "assets/icon/Notification.png";
+  static const noNotifIcon = "assets/img/noNotification.png";
+  static const promoIcon = "assets/icon/Discount.png";
+  static const diversIcon = "assets/icon/InfoCircle.png";
+  static const offerflash = "assets/icon/flash.png";
+  static const fleche1 = "assets/icon/fleche.png";
+  static const partage = "assets/icon/partager.png";
+  static const star = "assets/icon/star.png";
+  static const haut = "assets/icon/doublehaut.png";
+  static const chercher = "assets/icon/chercher.png";
+  static const menubtn = "assets/icon/menu.png";
+  static const plus = "assets/icon/plus.png";
+  static const sendcomment = "assets/icon/sendcomment.png";
+  static const commenter = "assets/icon/commentaires.png";
+  static const addimg = "assets/icon/addimg.png";
+  static const tshirt = "assets/icon/tshirt.png";
+  static const short = "assets/icon/short.png";
+  static const vendeur = "assets/icon/boutique.png";
+  static const avion = "assets/icon/avion.png";
+  static const bateau = "assets/icon/bateau.png";
+  static const paquet = "assets/icon/paquet.png";
+  static const pays = "assets/icon/pays.png";
+  static const suivi = "assets/icon/suivi.png";
+  static const remboursement = "assets/icon/rembours.png";
+  static const annuler = "assets/icon/annuler.png";
+  static const Valider = "assets/icon/valider.png";
+  //POPULAR
+  static const popular1 = "assets/images/popular/1.jpg";
+  static const populara1 = "assets/images/popular/a1.jpg";
+  static const popular2 = "assets/images/popular/2.jpg";
+  static const popular3 = "assets/images/popular/3.jpg";
+  static const popular4 = "assets/images/popular/4.jpg";
+  static const popular5 = "assets/images/popular/5.jpg";
+  static const popular6 = "assets/images/popular/6.jpg";
+  static const popular7 = "assets/images/popular/7.jpg";
+  static const popular8 = "assets/images/popular/8.jpg";
+  // boutique
+  static const imgbtq1_1 = "assets/images/boutiques/boutiqueimg1.jpg";
+  static const imgbtq1_2 = "assets/images/boutiques/boutiqueimg2.jpg";
+}

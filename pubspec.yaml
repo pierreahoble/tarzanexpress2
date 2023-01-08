@@ -1,0 +1,152 @@
+name: trevashop_v2
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  timezone: ^0.7.0
+  cupertino_icons: ^1.0.4
+  random_pk: any
+  shimmer: ^2.0.0
+  transparent_image: ^2.0.0
+  flutter_slidable: ^0.6.0
+  flutter_rating: ^0.0.2
+  http:
+  image_picker: ^0.8.4+2
+  giffy_dialog: ^1.8.0
+  shared_preferences: ^2.0.6
+  modal_progress_hud: ^0.1.3
+  platform: ^3.1.0
+  provider: ^6.0.2
+  libphonenumber: any
+  sqflite: ^2.0.2
+  flutter_local_notifications: ^6.0.0
+  equatable: ^2.0.3
+  flutter_inappwebview: ^5.3.2
+  path_provider: ^2.0.9
+  url_launcher: ^6.0.20
+  intl_phone_number_input: ^0.7.0+2
+  carousel_slider: ^4.0.0
+  flutter_breadcrumb: ^1.0.1
+  dropdown_formfield: ^0.1.4
+  gallery: ^0.0.1
+  firebase_core : ^1.12.0
+  pusher_websocket_flutter: ^0.2.0
+  #cloud_firestore: ^3.1.8
+  cloud_firestore: ^3.1.8
+  firebase_auth: ^2.0.0
+  fluttertoast: ^8.0.9
+  phone_number: ^0.12.0+2
+  loader_overlay: ^2.0.6
+  badges: ^2.0.2
+  
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.8.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo2.png"
+
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  fonts:
+    - family: Sans
+      fonts:
+        - asset: assets/font/OpenSans-Bold.ttf
+          weight: 800
+        - asset: assets/font/OpenSans-Semibold.ttf
+          weight: 600
+        - asset: assets/font/OpenSans-Regular.ttf
+          weight: 400
+        - asset: assets/font/OpenSans-Light.ttf
+          weight: 200
+    - family : Popins
+      fonts:
+        - asset: assets/font/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/font/Poppins-SemiBold.ttf
+          weight : 600
+    - family : Berlin
+      fonts:
+        - asset: assets/font/BRLNSDB.TTF
+          weight: 700
+    - family : Gotik
+      fonts:
+        - asset: assets/font/GOTHIC.TTF
+          weight: 400
+        - asset: assets/font/GOTHICB.TTF
+          weight : 600
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/img/
+    - assets/imgIllustration/
+    - assets/imgCategoryMan/
+    - assets/avatars/
+    - assets/gif/
+    - assets/icon/
+    - assets/imgBrand/
+    - assets/imgItem/
+    - assets/imgPromo/
+    - assets/images/
+    - assets/imgOnboard/
+    - assets/flags/
+    - assets/logo1.png
+    - assets/logo2.png
+    - assets/logo3.jpg
+    - assets/callcenter.png
+    - assets/padlock.png
+    - assets/edit.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
